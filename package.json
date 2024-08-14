@@ -1,0 +1,14 @@
+{
+  "name": "repo-test",
+  "version": "1.0.0",
+  "main": "my-own.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micheal Asiimwe",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
