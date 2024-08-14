@@ -7,8 +7,9 @@
   },
   "author": "Micheal Asiimwe",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "express": "^4.19.2",
     "path": "^0.12.7"
-  }
+  },
+  "description": ""
 }
